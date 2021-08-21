@@ -1,0 +1,25 @@
+{
+    "name": "ismaxim/typograph",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim Grynykha",
+            "email": "maximgrynykha@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "intervention/image": "^2.6",
+        "symfony/var-dumper": "^5.3",
+        "spatie/enum": "^3.9",
+        "stil/gd-text": "^1.1",
+        "illuminate/collections": "^8.55",
+        "ismaxim/pathfinder": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ismaxim\\Typograph\\": "src/"
+        }
+    }
+}
