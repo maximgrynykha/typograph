@@ -11,9 +11,7 @@
     "minimum-stability": "dev",
     "require": {
         "intervention/image": "^2.6",
-        "symfony/var-dumper": "^5.3",
         "spatie/enum": "^3.9",
-        "stil/gd-text": "^1.1",
         "illuminate/collections": "^8.55",
         "ismaxim/pathfinder": "dev-master"
     },
